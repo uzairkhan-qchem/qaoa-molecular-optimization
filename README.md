@@ -46,9 +46,6 @@ We consider a small **weighted 4‑cycle graph** where vertices represent binary
 - [ ] Map a real molecular problem (e.g., n‑butane torsional angles) to Max‑Cut  
 - [ ] Run on real quantum hardware (IBM Quantum, AWS Braket) with error mitigation  
 
-## 📝 License
-MIT – free to use, modify, and distribute with attribution.
-
-## 🙏 Acknowledgements
+##  Acknowledgements
 - Qiskit team for the quantum computing framework
 - QAOA literature (Farhi, Goldstone, Gutmann) for the original algorithm
